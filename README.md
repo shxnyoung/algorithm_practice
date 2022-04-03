@@ -1,3 +1,1 @@
 # algorithm_practice
-
-
